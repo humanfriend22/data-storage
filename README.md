@@ -11,3 +11,6 @@ This "app" is neither secure, safe, intuitive or anything else that might come u
 Don't actually use this.
 
 https://humanfriend22.github.io/data-storage
+
+
+LICENSE: This is licensed under the MIT license but at this point, just give me credit and don't sue me. That's it.
